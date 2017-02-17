@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/res/merged/debug/drawable/wifi_open.png",
+        "source": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/res/drawable/wifi_open.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/res/merged/debug/drawable/pause.png",
+        "source": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/res/drawable/pause.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/res/merged/debug/drawable/voice_plus.png",
+        "source": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/res/drawable/voice_plus.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/res/merged/debug/drawable/background.png",
+        "source": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/res/drawable/background.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/res/merged/debug/drawable/light_token.png",
+        "source": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/res/drawable/light_token.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/res/merged/debug/drawable/voice_token.png",
+        "source": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/res/drawable/voice_token.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/res/merged/debug/drawable/yuyin.png",
+        "source": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/res/drawable/yuyin.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/res/merged/debug/drawable/play.png",
+        "source": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/res/drawable/play.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/res/merged/debug/drawable/rotate_on.png",
+        "source": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/res/drawable/rotate_on.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/res/merged/debug/drawable/voice_minus.png",
+        "source": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/res/drawable/voice_minus.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/res/merged/debug/drawable/voice_on.png",
+        "source": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/res/drawable/voice_on.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/res/merged/debug/drawable/rotate_off.png",
+        "source": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/res/drawable/rotate_off.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/res/merged/debug/drawable/gprs.png",
+        "source": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/res/drawable/gprs.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/res/merged/debug/drawable/backward.png",
+        "source": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/res/drawable/backward.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/res/merged/debug/drawable/gprs_open.png",
+        "source": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/res/drawable/gprs_open.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/res/merged/debug/drawable/voice_off.png",
+        "source": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/res/drawable/voice_off.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/res/merged/debug/drawable/wifi.png",
+        "source": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/res/drawable/wifi.png"
+    },
+    {
+        "merged": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/res/merged/debug/drawable/forward.png",
+        "source": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/res/drawable/forward.png"
+    }
+]

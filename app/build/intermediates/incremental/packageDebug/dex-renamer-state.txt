@@ -1,0 +1,7 @@
+#Fri Feb 17 10:46:14 CST 2017
+base.0=/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3043ef9f80c289d6bde9ec71f03c153416aff097
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e67f734bb967e64f54fa5a19d853e1a0ba99f6c4/classes.dex
+base.1=/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e67f734bb967e64f54fa5a19d853e1a0ba99f6c4
+file.0=/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3043ef9f80c289d6bde9ec71f03c153416aff097/classes.dex

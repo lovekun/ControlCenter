@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7660c83c4fd6b4643b82b3f0ba414603689768c9">
+        <dex dex="/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e67f734bb967e64f54fa5a19d853e1a0ba99f6c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qiuaikun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_35aa2f78b29bde229769c69d439d21a8e26dbd3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d2c516fef83160557253d70e4e9941839d76dac">
+        <dex dex="/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3043ef9f80c289d6bde9ec71f03c153416aff097/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/res/merged/debug/layout/float_window_small.xml",
+        "source": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/res/layout/float_window_small.xml"
+    },
+    {
+        "merged": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/build/intermediates/res/merged/debug/layout/float_window_big.xml",
+        "source": "/Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/res/layout/float_window_big.xml"
+    }
+]

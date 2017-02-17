@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:11:22-75
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:14:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:15:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:17:5-72
+	android:name
+		ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:17:22-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:18:22-78
+application
+ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:20:5-42:19
+	android:label
+		ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:23:9-41
+	android:allowBackup
+		ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:22:9-45
+	android:theme
+		ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:24:9-40
+activity#biye.controlcenter.MainActivity
+ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:26:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:31:27-74
+service#biye.controlcenter.FloatWindowService
+ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:35:9-36:19
+	android:name
+		ADDED from /Users/qiuaikun/Documents/workspace/ws_androidstudio/ControlCenter/app/src/main/AndroidManifest.xml:35:18-70

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/big_window_layout"
+    android:layout_width="280dp"
+    android:layout_height="280dp"
+    android:background="@drawable/background" >
+    
+    <!-- 语音按钮，作返回按键 -->
+    <Button 
+        android:id="@+id/yuyin"
+        android:layout_width="25dp"
+        android:layout_height="30dp"
+        android:background="@drawable/yuyin"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        />
+    
+    <!-- 音量seekbar上的指示按钮，音量+ -->
+    <Button 
+        android:id="@+id/voice_plus"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:background="@drawable/voice_plus"
+        />
+    
+    <!-- 音量seekbar上的指示按钮，音量- -->
+    <Button 
+        android:id="@+id/voice_minus"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:background="@drawable/voice_minus"
+        />
+    
+    <!-- 音量seekbar上的指示按钮，音量喇叭 -->
+    <Button 
+        android:id="@+id/voice_token"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:background="@drawable/voice_token"
+        />
+    
+    <!-- 亮度seekbar上的指示按钮，右上角亮度指示 -->
+    <Button 
+        android:id="@+id/light_token1"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:background="@drawable/light_token"
+        />
+    
+    <!-- 亮度seekbar上的指示按钮，左下角亮度指示 -->
+    <Button 
+        android:id="@+id/light_token2"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:background="@drawable/light_token"
+        />
+    
+    <!-- 音乐播放器按钮，下一首 -->
+    <Button 
+        android:id="@+id/forward"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:background="@drawable/forward"
+        />
+    
+    <!-- 音乐播放器按钮，播放/暂停 -->
+    <Button 
+        android:id="@+id/play"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:background="@drawable/play"
+        />
+    
+    <!-- 音乐播放器按钮，上一首 -->
+    <Button 
+        android:id="@+id/backward"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:background="@drawable/backward"
+        />
+    
+    <!--旋转按钮  -->
+    <Button 
+        android:id="@+id/rotate"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:background="@drawable/rotate_on"
+        />
+    
+    <!--gprs控制按钮  -->
+    <Button 
+        android:id="@+id/gprs"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:background="@drawable/gprs"
+        />
+    
+    <!--wifi控制按钮  -->
+    <Button 
+        android:id="@+id/wifi"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:background="@drawable/wifi"
+        />
+    
+    <!--静音按钮  -->
+    <Button 
+        android:id="@+id/voice"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:background="@drawable/voice_on"
+        />
+    
+    
+
+</RelativeLayout>
